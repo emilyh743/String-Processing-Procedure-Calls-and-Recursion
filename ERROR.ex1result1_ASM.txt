@@ -1,0 +1,14 @@
+5							      |	Warning in /afs/cs.unc.edu/home/emily33/comp411lab/lab8/ex1.a
+2579							      |	Error in /afs/cs.unc.edu/home/emily33/comp411lab/lab8/ex1.asm
+37849							      |	Error in /afs/cs.unc.edu/home/emily33/comp411lab/lab8/ex1.asm
+3447733							      |	Error in /afs/cs.unc.edu/home/emily33/comp411lab/lab8/ex1.asm
+18550							      |
+56026							      |	Processing terminated due to errors.
+200212462						      <
+276358							      <
+284323							      <
+66901619						      <
+2311795							      <
+881289938						      <
+878082192						      <
+181880886						      <
